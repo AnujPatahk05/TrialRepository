@@ -5,6 +5,3 @@ This is my first change commited.
 # Student
 Anuj Patahk
 
-# Feature1 added (successfully)
-DONE
-
